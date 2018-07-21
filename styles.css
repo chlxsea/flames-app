@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+html, body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+  padding-top: 10%;
+  
+}
+
+#heading {
+  text-align: center;
+  font-weight: 700;
+}
